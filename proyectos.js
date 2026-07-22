@@ -11,7 +11,7 @@ const proyectos = [
     estado: "En operación",
     fecha: "2021",
     tipoUso: "Regulación primaria de frecuencia",
-    puntoConexion: "13.8 kV",
+    puntoConexion: "500 kV",
     departamento: "Cundinamarca",
     municipio: "Tocancipá",
     capacidadNominalMW: 7,
