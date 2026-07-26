@@ -15,7 +15,7 @@ const proyectos = [
     departamento: "Cundinamarca",
     municipio: "Tocancipá",
     capacidadNominalMW: 7,
-    capacidadMaximaMWh: 3.9,
+    capacidadMaximaMWh: 8.9,
     lat: 4.965,
     lon: -73.913
   },
